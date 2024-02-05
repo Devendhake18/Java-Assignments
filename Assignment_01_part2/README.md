@@ -1,4 +1,10 @@
-﻿**Calculator Class:**
+**Assignment 1 Part 2:**
+
+**Problem Statement:** 
+Part2: Implement a simple menu driven calculator in java to implement add, sub, multiplication, div, sqrt, power, mean, variance. Implement a separate Calculator class to include all related function inside that class. (Mean calculation: program reads numbers from the keyboard, summing them in the process until the user enters the string "end". It then stops input & displays the avg. of numbers)
+
+ 
+ **Calculator Class:**
 
 **addition(double n1, double n2):** This method takes two double values as input and returns their sum as a double value.
 
